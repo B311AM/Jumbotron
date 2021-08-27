@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url('./img/backgroundimage.jpg');
+    font-family: fangsong;
+    font-weight:bolder;
+    color:black;
+    font-size:200;
+}
+.headings{
+    font-family:fangsong;
+    font-weight:bolder;
+    color:black;
+    
+}
