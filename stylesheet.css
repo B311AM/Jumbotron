@@ -1,13 +1,26 @@
 .jumbotron{
-    background-image: url('./img/backgroundimage.jpg');
+    background-image: url('./img/jumbotronimage1.jpg');
     font-family: fangsong;
     font-weight:bolder;
     color:black;
     font-size:200;
+    padding-top: 17%;
+    padding-bottom: 17%;
+    
 }
 .headings{
     font-family:fangsong;
     font-weight:bolder;
     color:black;
     
+}
+
+body {
+    background-color:#4E71F0;
+}
+
+.p{
+    font-family:fangsong;
+    color:black;
+    font-size:20px;
 }
